@@ -1,0 +1,5 @@
+This software is licensed in TWO parts:
+
+(1) The config.conf file contains portions of neofetch (https://github.com/dylanaraps/neofetch) code, which is licensed under the MIT License.  Therefore the modified code falls under the same license.  See LICENSE.MIT for details.
+
+(2) Any and all art / image assets are SEPARATELY licensed under Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0) (https://creativecommons.org/licenses/by-nc/4.0/).  See LICENSE.CC for details
