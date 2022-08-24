@@ -5,7 +5,8 @@ A theme for [neofetch](https://github.com/dylanaraps/neofetch) based on the Moku
 
 
 ## Screenshots
-![](screenshots/screenshot-1.png)<sub>wallpaper credit: Dani Pendergast (www.danipendergast.com)</sub>
+<img src="screenshots/screenshot-1.png"  width="800"><br>
+<sub>wallpaper credit: Dani Pendergast (www.danipendergast.com)</sub></br>
 
 
 ## Requirements
